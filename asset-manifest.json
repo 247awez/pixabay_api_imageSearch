@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pixabay_api_imageSearch/static/js/main.c68cafa0.js",
+    "index.html": "/pixabay_api_imageSearch/index.html",
+    "main.c68cafa0.js.map": "/pixabay_api_imageSearch/static/js/main.c68cafa0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c68cafa0.js"
+  ]
+}
